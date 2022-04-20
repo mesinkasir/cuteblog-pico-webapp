@@ -1,0 +1,35 @@
+{
+    "name": "picocms/composer-installer",
+    "type": "composer-installer",
+    "description": "A composer plugin responsible for installing plugins and themes for Pico, a stupidly simple, blazing fast, flat file CMS.",
+    "keywords": [ "pico", "picocms", "pico-cms", "picocms-plugin", "picocms-theme", "picocms-installer", "composer", "composer-plugin", "composer-installer" ],
+    "homepage": "http://picocms.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Rudolf",
+            "email": "picocms.org@daniel-rudolf.de",
+            "role": "Lead Developer"
+        },
+        {
+            "name": "The Pico Community",
+            "homepage": "http://picocms.org/"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/picocms/composer-installer/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/picocms/composer-installer/issues",
+        "source": "https://github.com/picocms/composer-installer"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pico\\Composer\\": "src"
+        }
+    },
+    "extra": {
+        "class": "Pico\\Composer\\Installer\\PluginInstaller"
+    }
+}

@@ -1,0 +1,15 @@
+<pre>
+{{ add }}
+{{ rm }}
+{{ commit }}
+</pre>
+
+<form id="commitresponse" method="post">
+<input type="submit" value="Close" class="popupclose"></input>
+</form>
+
+<script>
+	$('#popup').on('click', '.popupclose', function(e) {
+		close_popup();
+        });
+</script>

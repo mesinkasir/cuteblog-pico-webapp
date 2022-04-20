@@ -1,0 +1,11 @@
+<div class="d-flex justify-content-end mb-4">
+{% if page_number > 1 %}
+<p>&nbsp;<a class="btn btn-dark text-white" href="{{ base_url }}/{{ page_indicator }}/{{ page_number - 1 }}">&larr; Previous</a></p>
+{% endif %}
+&nbsp;
+{% if page_number < total_pages %} 
+<p>&nbsp;<a class="btn btn-dark text-white" href="{{ base_url }}/{{ page_indicator }}/{{ page_number + 1 }}">Next →</a>&nbsp;</p>
+{% endif %}
+</div>
+{% if page_number > 1 %}
+{% endif %}
