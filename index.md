@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Cuteblog
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/cuteblog-pico-webapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey you need to build a modern website with markdown system?? so let's get strated with cuteblog a unique blog for pico cms A stupidly simple & blazing fast, flat file CMS.
+Making the web easy. including admin backend.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+this is a full set webapp package ready for develope your modern blog website.
 
-### Markdown
+Test drive demo & doc [https://axcora.my.id/pico/cuteblog →](https://axcora.my.id/pico/cuteblog/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN8yLkIPxTbl2vV8C2j3IFu9CFiTwRmSXE1ahdiEs06yXTeJyRSX8NBfmSpkRIDmNAFCeYG-LlOBwgBQrwxb7XRQwQ1xy75pTw0oJ90ikAXqNouNrrqHFP0kQGwiQxuIZ8aRTh27diMojUkJh5HVQB_PgOTkkTm-7k2vjRJrwfkG-MXlN3kZO6pZ8VXw/s1440/cuteblog2.png)
 
-```markdown
-Syntax highlighted code block
+Retina display ready for multi devices
 
-# Header 1
-## Header 2
-### Header 3
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzd07HEnidNa5j6BU0MlfvMtbcADQnRrGBanlEcSWuB8sltgy7JAId6u1TLSvXLErmn-wG55QwWiNcbwx9LQU1V-I1aFgJjm2C0n-K1Ln19y5iN7vzK_LQfqATOrgckXZwLj7J5Etp9Q9A03rPpLH_qjy3ysdsN0iCbuFA2_rPz24Z0c95y6NjjOZwLA/s1440/cuteblog1.png)
 
-- Bulleted
-- List
+So cute 😍
 
-1. Numbered
-2. List
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWTKQXcvhBWTQJlrjVOeFnuc2IfvduhYAdq-_UlnP2Q4sU1BXFOwCN2UqBluMZe5QSgyL6VzsiI2-eiiF0Bc9eDsYBlL727y5myprr53AbQfjLBEOaBdmV2tqvev4i2GVBvjFVhJRVwYlvqEzygM5KWSzGU5gV1RY5hUFI5AVCjOJzRcnSa0dtjgVQHg/s1440/cuteblog3.png)
 
-**Bold** and _Italic_ and `Code` text
+-------
 
-[Link](url) and ![Image](src)
-```
+Include admin backend 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu8Jjj7gEUMZY-OGP5ZbLqbyDQLIofywFltulki8GetFz6efC1hQiJ_MzsNB6HwplmCIsonPBpuSimQF0ED_F0QGFYhXaKPvCqe8lsMWNAYVmM2526UforcmuJuuU_Q7qPEs8K51HFDND5C2gtEHGofbEFwz_Lydb0HBUy2nq6TYwSU3bqYQy-YxMNxA/s1366/free%20website%20template%20tema%20gratis%20download%20cuteblog%20(2).png)
 
-### Jekyll Themes
+Login area
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/cuteblog-pico-webapp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeIbmXY2_fqhWpkBCGjdDf0uubIDeQn7f39SwyMYcjiK_qJPCgiN1aVc84gBmDmXlmV4laI4C2GxUDYAeyqI7lV92ZvdmDvBYIlGklvZQWPvkxgyHMofx9YxM196D5gzsq_BsiP4ytx6US7fNbuzrxjDtrje0Au90Z8OgT7HdSNnUD3dgZa7zmY-P_9g/s1366/free%20website%20template%20tema%20gratis%20download%20cuteblog%20(1).png)
 
-### Support or Contact
+Markdwon post format
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Test drive demo & doc [https://axcora.my.id/pico/cuteblog →](https://axcora.my.id/pico/cuteblog/)
