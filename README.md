@@ -7,6 +7,8 @@ this is a full set webapp package ready for develope your modern blog website.
 
 Test drive demo & doc [https://axcora.my.id/pico/cuteblog →](https://axcora.my.id/pico/cuteblog/)
 
+dokumentasi indonesia [https://www.hockeycomputindo.com/2022/04/tema-blog-website-terbaru-dan-gratis.html →](https://www.hockeycomputindo.com/2022/04/tema-blog-website-terbaru-dan-gratis.html)
+
 ![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN8yLkIPxTbl2vV8C2j3IFu9CFiTwRmSXE1ahdiEs06yXTeJyRSX8NBfmSpkRIDmNAFCeYG-LlOBwgBQrwxb7XRQwQ1xy75pTw0oJ90ikAXqNouNrrqHFP0kQGwiQxuIZ8aRTh27diMojUkJh5HVQB_PgOTkkTm-7k2vjRJrwfkG-MXlN3kZO6pZ8VXw/s1440/cuteblog2.png)
 
 Retina display ready for multi devices
@@ -30,3 +32,5 @@ Login area
 Markdwon post format
 
 Test drive demo & doc [https://axcora.my.id/pico/cuteblog →](https://axcora.my.id/pico/cuteblog/)
+
+dokumentasi indonesia [https://www.hockeycomputindo.com/2022/04/tema-blog-website-terbaru-dan-gratis.html →](https://www.hockeycomputindo.com/2022/04/tema-blog-website-terbaru-dan-gratis.html)
